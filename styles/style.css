@@ -220,12 +220,6 @@ blockquote {
     margin-top: 2px;
 }
 
-.card__author {
-}
-
-.card__content {
-}
-
 .footer {
     display: flex;
     justify-content: space-between;
@@ -247,6 +241,3 @@ blockquote {
     line-height: 1.25;
 }
 
-.footer__copy {
-
-}
